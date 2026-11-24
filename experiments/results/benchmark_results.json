@@ -1,0 +1,82 @@
+{
+  "scope": "Exploratory supplied synthetic corpus; reconstructed generator intent, no independent human ground truth or held-out test",
+  "input_sha256": "fa890c97658c002a00d4fa00183ea6c4fe6ac76c18102d0e69180ef416cdd23f",
+  "clean_rows": 517,
+  "unique_text": 188,
+  "base_template_groups": 41,
+  "routing": {
+    "original_binary_gate": {
+      "precision": 1.0,
+      "recall": 0.7100271002710027,
+      "f1": 0.8304278922345484,
+      "confusion_TN_FP_FN_TP": [
+        148,
+        0,
+        107,
+        262
+      ]
+    },
+    "negative_only_v2": {
+      "precision": 1.0,
+      "recall": 0.7018970189701897,
+      "f1": 0.8248407643312102,
+      "confusion_TN_FP_FN_TP": [
+        148,
+        0,
+        110,
+        259
+      ]
+    },
+    "complaint_aware_v2": {
+      "precision": 1.0,
+      "recall": 0.975609756097561,
+      "f1": 0.9876543209876543,
+      "confusion_TN_FP_FN_TP": [
+        148,
+        0,
+        9,
+        360
+      ]
+    },
+    "rating_only_weak_baseline": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "confusion_TN_FP_FN_TP": [
+        148,
+        0,
+        0,
+        369
+      ]
+    }
+  },
+  "recall_difference_group_bootstrap_95_interval": [
+    0.1950452380952382,
+    0.33058699644668027
+  ],
+  "clustering_corpus": "Same complaint-aware candidate set for all four representation comparisons",
+  "candidate_count": 360,
+  "keyword_allocation": [
+    {
+      "method": "dense_per_cluster",
+      "records": 3600,
+      "features": 499,
+      "seconds": 0.04827480006497353,
+      "peak_traced_MiB": 27.415122985839844
+    },
+    {
+      "method": "sparse_means",
+      "records": 3600,
+      "features": 499,
+      "seconds": 0.015161100076511502,
+      "peak_traced_MiB": 0.2149829864501953
+    }
+  ],
+  "cautions": [
+    "Rating baseline is circular: generator selects ratings from intended sentiment; not a fair independent predictor.",
+    "All K and representation results are reported; no best K claimed from this exploratory corpus.",
+    "Silhouette values from LSA and TF-IDF are not directly comparable as quality rankings.",
+    "Bootstrap intervals quantify variation across these templates, not real-world generalization.",
+    "No expert advice utility or manual triage speedup measured."
+  ]
+}

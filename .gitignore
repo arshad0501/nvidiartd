@@ -19,5 +19,5 @@ frontend/dist/
 data/*.db
 data/*.db-*
 data/*.writer.lock
-experiments/results/
 regression.xml
+/release_verification.json

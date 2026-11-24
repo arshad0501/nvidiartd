@@ -2,12 +2,21 @@ import { useCallback, useEffect, useState } from 'react'
 
 const API = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000'
 const rank = { Critical: 0, High: 1, Medium: 2, Low: 3 }
+const UNAVAILABLE = 'Cannot reach the DriveSense analysis service. Check that the API is running, then retry.'
 async function call(path, options = {}) {
-  const response = await fetch(API + path, { ...options, signal: options.signal || AbortSignal.timeout(90000) })
+  let response
+  try {
+    response = await fetch(API + path, { ...options, signal: options.signal || AbortSignal.timeout(options.method === 'POST' ? 90000 : 20000) })
+  } catch (e) {
+    if (e.name === 'AbortError') throw e
+    throw new Error(e.name === 'TimeoutError' ? 'The analysis service did not respond in time. Retry shortly.' : UNAVAILABLE)
+  }
   const payload = await response.json().catch(() => ({}))
   if (!response.ok) {
     const detail = payload.detail
-    throw new Error(typeof detail === 'string' ? detail : Array.isArray(detail) ? detail.map(x => x.msg).join('; ') : 'The service could not complete this request.')
+    if (typeof detail === 'string') throw new Error(detail)
+    if (Array.isArray(detail)) throw new Error(detail.map(x => x.msg).join('; '))
+    throw new Error([502, 503, 504].includes(response.status) ? UNAVAILABLE + ` (HTTP ${response.status})` : `The service could not complete this request (HTTP ${response.status}).`)
   }
   return payload
 }

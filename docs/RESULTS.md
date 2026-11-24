@@ -65,12 +65,23 @@ LSA performs better at most values of K up to 9, but not at K = 10–12, so no s
 
 ## 5. Engineering verification
 
-- 62 / 62 regression tests pass, also in a clean environment installed from hash-locked requirements.
-- Fault-injection tests confirm that a failure before or during publication keeps the previous results.
-- A second thread or process writer is rejected while an analysis runs.
-- The frontend builds from a locked `npm ci`.
-- **Public-data compatibility:** 100 official NHTSA complaint summaries were processed into 94 candidates and 7 themes. These are unverified allegations, so no accuracy figure is derived from them.
+Full details and reproduction commands: [`VERIFICATION.md`](VERIFICATION.md).
+
+| Check | Result |
+|---|---|
+| Regression suite (fresh clone, hash-locked install) | 62 / 62 pass |
+| End-to-end release checks (`scripts/verify_release.py`) | 18 / 18 pass |
+| Browser checks at 375 / 768 / 1440 px (`scripts/browser_check.py`) | 29 / 29 pass |
+| Docker Compose: health, private API, token, read-only input, persistence | All pass |
+| Failures injected at 6 pipeline checkpoints | Published run unchanged every time |
+| Experiments re-run from a clean clone | Identical results (timings excluded) |
+| Full default analysis over HTTP | 0.51 s (laptop, single run) |
+
+**Public-data compatibility:** 100 official NHTSA complaint summaries were processed into 94 candidates and 7 themes. These are unverified allegations selected for being complaints, so no accuracy figure is derived from them (94 candidates is *not* 94% accuracy).
 
 ## 6. Limitations
 
-Synthetic demonstration data; no independent labels or expert review yet; NVIDIA NIM is covered by mocked tests only; NV-Embed is not yet integrated. See the README for next steps.
+- **Data and labels:** the demonstration data are synthetic. The 71.0% → 97.6% figure is recall against labels reconstructed from the data generator, not independent real-world accuracy, and the rating-only baseline is circular.
+- **Validation:** there are no independent annotations, expert ratings or triage-time measurements yet. Blank study packs are in `evaluation_data/`.
+- **NVIDIA integration:** NIM is covered by mocked tests only, and NV-Embed is not yet integrated.
+- **Severity:** the severity level is a rule-based triage suggestion, not a diagnosis.

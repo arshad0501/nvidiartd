@@ -23,7 +23,7 @@ DriveSense AI turns unstructured vehicle-owner reviews into a short, prioritised
 | **Evidence-linked advice** | Severity-aware engineering and service recommendations come from a deterministic rule engine. NVIDIA NIM can be enabled instead, with strict schema and evidence validation. |
 | **Human-in-the-loop** | Reviewers accept, edit or reject each recommendation in the React workspace. Every decision is stored with its reason and a version number. |
 | **Reliable and reproducible** | Each analysis is a versioned run, published atomically, with a hashed input and its configuration recorded. A failed or concurrent run never overwrites the published results. |
-| **Tested** | 62 automated regression tests, plus continuous integration for both the backend and the frontend. |
+| **Verified** | 62 regression tests; 18 end-to-end checks against a live server; 29 browser checks at mobile, tablet and desktop widths; a Docker Compose deployment check; CI on every push. |
 
 ## Results (release run, demonstration dataset)
 
@@ -37,11 +37,21 @@ Default configuration: complaint-aware routing, TF-IDF, K = 7, seed 42.
 | Recurring themes | 7 (5 High, 2 Medium severity) |
 | Routing recall on the synthetic diagnostic | 71.0% (sentiment gate) → **97.6%** (complaint-aware) |
 | Regression tests | 62 / 62 pass |
+| End-to-end release checks | 18 / 18 pass (live API, history, export, 409 conflicts, 6 injected failures, restart) |
+| Browser checks | 29 / 29 pass (375 / 768 / 1440 px, keyboard, reruns, history, review form, export, outage) |
 | Runtime for a full analysis | about 1 second on a laptop |
 
 ![Sentiment and theme volume](docs/images/results.png)
 
-Full results, method and limitations: [`docs/RESULTS.md`](docs/RESULTS.md).
+Full results, method and limitations: [`docs/RESULTS.md`](docs/RESULTS.md). How each claim was verified: [`docs/VERIFICATION.md`](docs/VERIFICATION.md).
+
+## The analyst workspace
+
+![Overview](docs/images/ui/overview_desktop.png)
+
+| Theme evidence | Action review | Mobile |
+|---|---|---|
+| ![Theme evidence](docs/images/ui/theme_evidence_desktop.png) | ![Action review](docs/images/ui/action_review_desktop.png) | ![Mobile](docs/images/ui/overview_mobile.png) |
 
 ## Architecture
 
@@ -74,8 +84,8 @@ Full results, method and limitations: [`docs/RESULTS.md`](docs/RESULTS.md).
 ├── tests/                   # pytest regression suite (62 tests)
 ├── experiments/             # pre-registered benchmark protocol and runner
 ├── evaluation_data/         # blank annotation and expert-review packs
-├── scripts/                 # NHTSA import, annotation tooling, demo setup
-├── docs/                    # results, design decisions, images
+├── scripts/                 # release + browser verification, NHTSA import, annotation tooling
+├── docs/                    # results, verification, demo guide, design decisions, images, evidence
 ├── run_pipeline.py          # command-line entry point
 ├── docker-compose.yml       # API + workspace containers
 └── requirements*.lock       # hash-locked Python dependencies
@@ -212,7 +222,22 @@ A UTF-8 CSV with the header `vehicle,review_text,rating`. Ratings may be blank; 
 python -m pytest
 ```
 
-The suite covers input validation, path and size limits, sentiment, complaint routing, tiny or empty data, NIM gating and fallback, publication faults, concurrent writers, access control, the review workflow and deployment configuration. GitHub Actions runs the suite and the frontend build on every push.
+The suite covers input validation, path and size limits, sentiment, complaint routing, tiny or empty data, NIM gating and fallback, publication faults, concurrent writers, access control, the review workflow and deployment configuration.
+
+End-to-end checks against a live server, in an isolated temporary database:
+
+```bash
+python scripts/verify_release.py
+```
+
+Browser checks against a running deployment (optional; needs `pip install playwright==1.55.0` and Google Chrome):
+
+```bash
+docker compose up -d
+python scripts/browser_check.py --base http://127.0.0.1:5173 --api http://127.0.0.1:5173/api
+```
+
+GitHub Actions runs the test suite, the end-to-end verification and the frontend build on every push. A step-by-step demonstration is in [`docs/DEMO.md`](docs/DEMO.md).
 
 ## Reproducing the experiments
 
@@ -220,13 +245,14 @@ The suite covers input validation, path and size limits, sentiment, complaint ro
 python experiments/run_benchmarks.py
 ```
 
-This follows the pre-registered protocol in [`experiments/protocol.json`](experiments/protocol.json). It compares routing strategies and four text representations across K = 3–12 with three seeds, and writes the results to `experiments/results/`.
+This follows the pre-registered protocol in [`experiments/protocol.json`](experiments/protocol.json). It compares routing strategies and four text representations across K = 3–12 with three seeds, and writes the results to [`experiments/results/`](experiments/results/). The committed results were reproduced exactly from a clean clone (timings excluded).
 
 ## Limitations
 
 - The bundled reviews are synthetic. The diagnostic metrics use labels reconstructed from the data generator, not independent annotations.
 - The recommendations have not yet been validated by automotive domain experts. Annotation and expert-review packs are provided in `evaluation_data/`.
 - NVIDIA NIM is covered by mocked tests only. NVIDIA NV-Embed is a planned backend for the existing representation interface.
+- Automated browser checks do not replace screen-reader testing or studies with real users.
 - Severity is a rule-based triage suggestion, not a diagnosis.
 
 Design rationale: [`docs/decisions/`](docs/decisions/).

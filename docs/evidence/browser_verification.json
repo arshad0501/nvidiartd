@@ -1,0 +1,155 @@
+{
+  "generated_utc": "2026-11-24T19:58:12Z",
+  "browser": "Chrome 157.0.8103.80 (headless, Playwright)",
+  "base_url": "http://127.0.0.1:5173",
+  "passed": 29,
+  "total": 29,
+  "checks": [
+    {
+      "check": "overview shows analysed totals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "overview shows cleaning transparency",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "score semantics stated (polarity, not confidence)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "actual provider label shown",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "mobile 375px: no horizontal overflow",
+      "passed": true,
+      "detail": "overflow 0px"
+    },
+    {
+      "check": "mobile 375px: navigation labels readable",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "tablet 768px: no horizontal overflow",
+      "passed": true,
+      "detail": "overflow 0px"
+    },
+    {
+      "check": "tablet 768px: navigation labels readable",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "desktop 1440px: no horizontal overflow",
+      "passed": true,
+      "detail": "overflow 0px"
+    },
+    {
+      "check": "desktop 1440px: navigation labels readable",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "keyboard Tab/Enter switches view",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "keyboard focus is visibly outlined",
+      "passed": true,
+      "detail": "outline-style solid"
+    },
+    {
+      "check": "rerun publishes a new run",
+      "passed": true,
+      "detail": "628ae951 -> d5b00c3a"
+    },
+    {
+      "check": "rerun refreshes theme list (K=5)",
+      "passed": true,
+      "detail": "5 themes"
+    },
+    {
+      "check": "selected theme detail belongs to new run",
+      "passed": true,
+      "detail": "Climate Control (HVAC) Issues / cabin, warm / cluster 1"
+    },
+    {
+      "check": "review requests pinned to the new run id",
+      "passed": true,
+      "detail": "1 requests"
+    },
+    {
+      "check": "historical run selection switches run",
+      "passed": true,
+      "detail": "628ae951"
+    },
+    {
+      "check": "historical drill-down uses that run id",
+      "passed": true,
+      "detail": "1 requests"
+    },
+    {
+      "check": "action evidence opens matching theme",
+      "passed": true,
+      "detail": "Service & Dealer Experience"
+    },
+    {
+      "check": "evidence shows exact source text and row",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "review event saved and shown",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "stale concurrent review rejected with clear message",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "export bundle matches displayed run",
+      "passed": true,
+      "detail": "d5b00c3a reviews 517"
+    },
+    {
+      "check": "export retains original advice and review history",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "API outage shows actionable error and retry, not empty data",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "retry recovers after API returns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "NHTSA long text wraps on mobile without overflow",
+      "passed": true,
+      "detail": "overflow 0px"
+    },
+    {
+      "check": "no clipped buttons on mobile",
+      "passed": true,
+      "detail": "0 clipped"
+    },
+    {
+      "check": "no unexpected console errors",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "note": "Demonstration review events were recorded by a script; they are not expert validation."
+}

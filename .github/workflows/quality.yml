@@ -10,11 +10,15 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements-dev.lock
       - run: python -m pytest --junitxml=regression.xml
+      - name: End-to-end release verification (live API, history, export, conflicts, injected failures, restart)
+        run: python scripts/verify_release.py --out release_verification.json
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: regression-results
-          path: regression.xml
+          path: |
+            regression.xml
+            release_verification.json
   frontend:
     runs-on: ubuntu-latest
     defaults:

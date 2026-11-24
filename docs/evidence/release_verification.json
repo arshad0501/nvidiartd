@@ -1,0 +1,152 @@
+{
+  "generated_utc": "2026-11-24T19:48:50Z",
+  "python": "3.12.14",
+  "passed": 18,
+  "total": 18,
+  "checks": [
+    {
+      "check": "fresh server starts with no published run",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "default analysis completes",
+      "passed": true,
+      "detail": "517 reviews, 7 themes"
+    },
+    {
+      "check": "default run matches documented release values",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "provider provenance is truthful without NIM consent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second analysis (LSA) completes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "run history lists both runs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "historical snapshot returns the first run unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "evidence export downloads as attachment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "export contains every retained review",
+      "passed": true,
+      "detail": "517 reviews"
+    },
+    {
+      "check": "review event recorded",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "stale review rejected with 409 conflict",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "invalid cluster count rejected (422)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "path escape rejected (400)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "published run unchanged after rejected input",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "untrusted browser origin cannot mutate (403)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "published run persists across restart",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "review history persists across restart",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "published results unchanged after failures at all 6 checkpoints",
+      "passed": true,
+      "detail": "after_ingestion:ok, after_sentiment:ok, after_clustering:ok, after_insights:ok, during_publication:ok, before_commit:ok"
+    }
+  ],
+  "facts": {
+    "default_run_seconds_http": 0.51,
+    "default_run": {
+      "reviews_ingested": 517,
+      "themes_discovered": 7,
+      "insights_generated": 7,
+      "source_sha256": "fa890c97658c002a00d4fa00183ea6c4fe6ac76c18102d0e69180ef416cdd23f",
+      "candidates": 360,
+      "sentiment_counts": {
+        "positive": 169,
+        "neutral": 89,
+        "negative": 259
+      }
+    },
+    "default_themes": [
+      [
+        "Service & Dealer Experience",
+        53
+      ],
+      [
+        "Transmission & Drivetrain Issues",
+        143
+      ],
+      [
+        "Climate Control (HVAC) Issues / air, air conditioning / cluster 3",
+        16
+      ],
+      [
+        "Emerging Theme: cheap, cheap plastic, door panels",
+        13
+      ],
+      [
+        "Brake System Issues",
+        35
+      ],
+      [
+        "Emerging Theme: came, months, times",
+        48
+      ],
+      [
+        "Climate Control (HVAC) Issues / cabin, warm / cluster 7",
+        52
+      ]
+    ],
+    "severity": {
+      "Critical": 0,
+      "High": 5,
+      "Medium": 2,
+      "Low": 0
+    },
+    "providers": {
+      "Rule-based": 7
+    }
+  }
+}
