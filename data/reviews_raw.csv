@@ -1,0 +1,604 @@
+review_id,vehicle,review_text,rating
+1,SUV Trailmaster 2025,"To be honest, same issue was 'fixed' twice and came back both times within days.",1
+2,Pickup RangeRunner 2024,Had to wait three weeks just to get a service appointment for a recurring issue.,1
+3,Crossover Aria 2024,"Charging speed at fast chargers is way below what was advertised, takes almost twice as long.",1
+4,Compact Hatch Nova 2023,"To be honest, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",3
+5,Pickup RangeRunner 2024,"So far, the touchscreen is fast and CarPlay connects instantly every time.",5
+6,Sedan LX 2025,"Unfortunately, carPlay randomly stops working after a software update and support has no fix.",2
+7,EV Volt-X 2024,"Range dropped noticeably after just 8 months, now getting 40 miles less than when new.",1
+8,Sedan LX 2025,"Frustratingly, had to wait three weeks just to get a service appointment for a recurring issue.",3
+9,SUV Trailmaster 2025,Software updates have actually improved the infotainment system over time.,4
+10,SUV Trailmaster 2025,"Unfortunately, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",1
+11,EV Volt-X 2025,"To be honest, rough shifting at low speeds, especially noticeable in stop-and-go traffic.",2
+12,SUV Trailmaster 2024,"Brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",3
+13,EV Volt-X 2024,"Frustratingly, warranty claim was denied without a clear explanation, very poor communication.",3
+14,Sedan LX 2024,"So far, braking feels confident and responsive, especially in emergency stops.",5
+15,EV Volt-X 2025,"Noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",1
+16,EV Volt-X 2024,"To be honest, warranty claim was denied without a clear explanation, very poor communication.",1
+17,Pickup RangeRunner 2024,"Braking feels confident and responsive, especially in emergency stops.",5
+18,Compact Hatch Nova 2023,"Noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",1
+19,SUV Trailmaster 2024,"To be honest, air conditioning stopped blowing cold air after six months, still under investigation.",2
+20,Compact Hatch Nova 2023,There's a persistent rattle from the rear door that the dealer couldn't diagnose.,3
+21,Compact Hatch Nova 2024,"Overall, the touchscreen is fast and CarPlay connects instantly every time.",5
+22,Pickup RangeRunner 2024,"I'm disappointed that air conditioning stopped blowing cold air after six months, still under investigation.",1
+23,SUV Trailmaster 2024,"Rough shifting at low speeds, especially noticeable in stop-and-go traffic.",3
+24,Crossover Aria 2024,Charging at home overnight is seamless and the range estimate has been accurate.,4
+25,Compact Hatch Nova 2024,"There's a grinding noise when braking at low speed, took it in twice and it's still there.",1
+26,EV Volt-X 2025,"Unfortunately, dashboard trim started rattling within the first month, very annoying on rough roads.",2
+27,Sedan LX 2025,"Unfortunately, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",2
+28,SUV Trailmaster 2024,"To be honest, climate control settings reset randomly and the cabin gets uncomfortably warm.",2
+29,Compact Hatch Nova 2024,"To be honest, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",1
+30,Compact Hatch Nova 2024,"Frustratingly, same issue was 'fixed' twice and came back both times within days.",2
+31,Sedan LX 2024,"I'm disappointed that the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",3
+32,Sedan LX 2025,"Unfortunately, seat stitching came apart after only a few months of normal use.",1
+33,Sedan LX 2025,"I'm disappointed that brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",3
+34,Compact Hatch Nova 2024,"To be honest, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+35,Compact Hatch Nova 2023,"So far, dealer honored the warranty claim without any hassle, great experience overall.",5
+36,Pickup RangeRunner 2024,"I'm disappointed that regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",2
+37,Sedan LX 2024,"Overall, gear shifts are smooth and barely noticeable, very refined transmission.",5
+38,SUV Trailmaster 2025,"To be honest, had to wait three weeks just to get a service appointment for a recurring issue.",1
+39,EV Volt-X 2024,"To be honest, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",2
+40,Compact Hatch Nova 2024,"I have to say, braking feels confident and responsive, especially in emergency stops.",4
+41,Sedan LX 2025,"Unfortunately, the battery management system throws a voltage warning randomly on cold mornings.",1
+42,Pickup RangeRunner 2024,"To be honest, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+43,Compact Hatch Nova 2023,"I'm disappointed that regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",2
+44,SUV Trailmaster 2025,"So far, gear shifts are smooth and barely noticeable, very refined transmission.",5
+45,Sedan LX 2024,"Honestly, braking feels confident and responsive, especially in emergency stops.",4
+46,Compact Hatch Nova 2024,"Unfortunately, seat stitching came apart after only a few months of normal use.",1
+47,SUV Trailmaster 2025,"Unfortunately, climate control settings reset randomly and the cabin gets uncomfortably warm.",2
+48,Crossover Aria 2024,"The battery holds charge really well even in winter, very impressed with the range.",4
+49,SUV Trailmaster 2025,I'm disappointed that cheap plastic on the door panels scratches very easily.,2
+50,Compact Hatch Nova 2023,"I'm disappointed that there's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+51,Crossover Aria 2024,"I have to say, climate control cools the cabin down fast even on hot days.",5
+52,EV Volt-X 2024,"Charging speed at fast chargers is way below what was advertised, takes almost twice as long.",1
+53,EV Volt-X 2024,"Honestly, the touchscreen is fast and CarPlay connects instantly every time.",4
+54,Compact Hatch Nova 2024,"Gear shifts are smooth and barely noticeable, very refined transmission.",4
+55,SUV Trailmaster 2024,"Overall, dealer honored the warranty claim without any hassle, great experience overall.",5
+56,EV Volt-X 2024,"Honestly, the battery holds charge really well even in winter, very impressed with the range.",5
+57,Compact Hatch Nova 2024,"Honestly, braking feels confident and responsive, especially in emergency stops.",5
+58,Pickup RangeRunner 2024,"Overall, the touchscreen is fast and CarPlay connects instantly every time.",5
+59,SUV Trailmaster 2024,"I'm disappointed that charging speed at fast chargers is way below what was advertised, takes almost twice as long.",2
+60,Sedan LX 2025,"Overall, interior materials feel premium and have held up well after a year of daily use.",4
+61,Compact Hatch Nova 2024,Cheap plastic on the door panels scratches very easily.,1
+62,Sedan LX 2024,"I'm disappointed that rough shifting at low speeds, especially noticeable in stop-and-go traffic.",2
+63,Compact Hatch Nova 2024,"Honestly, braking feels confident and responsive, especially in emergency stops.",5
+64,SUV Trailmaster 2024,"So far, interior materials feel premium and have held up well after a year of daily use.",5
+65,SUV Trailmaster 2025,"Frustratingly, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",2
+66,Sedan LX 2024,"I have to say, braking feels confident and responsive, especially in emergency stops.",5
+67,EV Volt-X 2024,"I'm disappointed that regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+68,EV Volt-X 2025,"Frustratingly, there's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+69,Compact Hatch Nova 2024,I'm disappointed that heater takes forever to warm up the cabin during winter mornings.,2
+70,Sedan LX 2025,"Overall, dealer honored the warranty claim without any hassle, great experience overall.",5
+71,Sedan LX 2025,"Unfortunately, the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.",3
+72,Crossover Aria 2024,"Frustratingly, rough shifting at low speeds, especially noticeable in stop-and-go traffic.",3
+73,EV Volt-X 2024,"To be honest, the battery management system throws a voltage warning randomly on cold mornings.",1
+74,Pickup RangeRunner 2024,I'm disappointed that service staff were dismissive about my concerns and didn't document the complaint properly.,1
+75,EV Volt-X 2024,"Overall, dealer honored the warranty claim without any hassle, great experience overall.",5
+76,EV Volt-X 2024,"Frustratingly, carPlay randomly stops working after a software update and support has no fix.",3
+77,Crossover Aria 2024,"To be honest, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",3
+78,EV Volt-X 2024,I'm disappointed that infotainment screen freezes at least once a week and requires a full restart.,1
+79,Compact Hatch Nova 2023,"I have to say, gear shifts are smooth and barely noticeable, very refined transmission.",5
+80,Sedan LX 2025,"To be honest, warranty claim was denied without a clear explanation, very poor communication.",2
+81,SUV Trailmaster 2025,"Unfortunately, cheap plastic on the door panels scratches very easily.",2
+82,Sedan LX 2024,"Overall, braking feels confident and responsive, especially in emergency stops.",4
+83,Pickup RangeRunner 2024,"Frustratingly, transmission hesitates and jerks when shifting from first to second gear.",3
+84,Pickup RangeRunner 2024,"I have to say, braking feels confident and responsive, especially in emergency stops.",4
+85,Pickup RangeRunner 2024,"Unfortunately, brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",1
+86,Compact Hatch Nova 2024,"Overall, braking feels confident and responsive, especially in emergency stops.",4
+87,Compact Hatch Nova 2024,"Frustratingly, air conditioning stopped blowing cold air after six months, still under investigation.",3
+88,Compact Hatch Nova 2024,There's a persistent rattle from the rear door that the dealer couldn't diagnose.,2
+89,Compact Hatch Nova 2023,"So far, climate control cools the cabin down fast even on hot days.",5
+90,Compact Hatch Nova 2023,Software updates have actually improved the infotainment system over time.,4
+91,EV Volt-X 2024,"To be honest, carPlay randomly stops working after a software update and support has no fix.",2
+92,SUV Trailmaster 2024,"So far, the touchscreen is fast and CarPlay connects instantly every time.",4
+93,Pickup RangeRunner 2024,"Overall, gear shifts are smooth and barely noticeable, very refined transmission.",5
+94,SUV Trailmaster 2025,"Unfortunately, the touchscreen has noticeable lag when switching between navigation and music apps.",2
+95,Pickup RangeRunner 2024,"Gear shifts are smooth and barely noticeable, very refined transmission.",5
+96,Pickup RangeRunner 2024,"I have to say, charging at home overnight is seamless and the range estimate has been accurate.",5
+97,SUV Trailmaster 2025,"I have to say, service center was quick and the staff kept me updated throughout the repair.",5
+98,Pickup RangeRunner 2024,I'm disappointed that transmission made a clunking sound and the dealership couldn't replicate the issue.,1
+99,Compact Hatch Nova 2024,"Air conditioning stopped blowing cold air after six months, still under investigation.",1
+100,Pickup RangeRunner 2024,"Unfortunately, transmission hesitates and jerks when shifting from first to second gear.",1
+101,Pickup RangeRunner 2024,"I'm disappointed that air conditioning stopped blowing cold air after six months, still under investigation.",2
+102,EV Volt-X 2024,"Frustratingly, the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.",2
+103,Compact Hatch Nova 2024,"Overall, software updates have actually improved the infotainment system over time.",4
+104,Sedan LX 2024,"Unfortunately, infotainment screen freezes at least once a week and requires a full restart.",1
+105,SUV Trailmaster 2024,"So far, braking feels confident and responsive, especially in emergency stops.",5
+106,EV Volt-X 2024,"Frustratingly, service staff were dismissive about my concerns and didn't document the complaint properly.",2
+107,EV Volt-X 2024,"To be honest, brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",1
+108,Pickup RangeRunner 2024,Cheap plastic on the door panels scratches very easily.,2
+109,EV Volt-X 2024,"Unfortunately, service staff were dismissive about my concerns and didn't document the complaint properly.",3
+110,EV Volt-X 2025,"Unfortunately, climate control settings reset randomly and the cabin gets uncomfortably warm.",3
+111,EV Volt-X 2025,Transmission hesitates and jerks when shifting from first to second gear.,1
+112,Pickup RangeRunner 2024,"Unfortunately, heater takes forever to warm up the cabin during winter mornings.",2
+113,Pickup RangeRunner 2024,"So far, dealer honored the warranty claim without any hassle, great experience overall.",4
+114,Compact Hatch Nova 2024,Same issue was 'fixed' twice and came back both times within days.,2
+115,SUV Trailmaster 2025,"I'm disappointed that rough shifting at low speeds, especially noticeable in stop-and-go traffic.",1
+116,Crossover Aria 2024,"I have to say, the touchscreen is fast and CarPlay connects instantly every time.",5
+117,EV Volt-X 2025,"Frustratingly, had to wait three weeks just to get a service appointment for a recurring issue.",1
+118,EV Volt-X 2024,"I'm disappointed that rough shifting at low speeds, especially noticeable in stop-and-go traffic.",3
+119,SUV Trailmaster 2025,Service center was quick and the staff kept me updated throughout the repair.,4
+120,SUV Trailmaster 2025,"Braking feels confident and responsive, especially in emergency stops.",5
+121,Sedan LX 2025,"Overall, dealer honored the warranty claim without any hassle, great experience overall.",5
+122,Crossover Aria 2024,"I'm disappointed that there's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+123,Compact Hatch Nova 2024,"Frustratingly, rough shifting at low speeds, especially noticeable in stop-and-go traffic.",2
+124,EV Volt-X 2024,"Honestly, software updates have actually improved the infotainment system over time.",4
+125,Compact Hatch Nova 2024,"Overall, charging at home overnight is seamless and the range estimate has been accurate.",4
+126,Crossover Aria 2024,"I'm disappointed that regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",3
+127,EV Volt-X 2024,"To be honest, dashboard trim started rattling within the first month, very annoying on rough roads.",1
+128,SUV Trailmaster 2024,Infotainment screen freezes at least once a week and requires a full restart.,2
+129,Compact Hatch Nova 2023,"So far, charging at home overnight is seamless and the range estimate has been accurate.",4
+130,Compact Hatch Nova 2023,"Frustratingly, heater takes forever to warm up the cabin during winter mornings.",2
+131,Compact Hatch Nova 2023,I'm disappointed that infotainment screen freezes at least once a week and requires a full restart.,1
+132,Crossover Aria 2024,"Unfortunately, heater takes forever to warm up the cabin during winter mornings.",1
+133,Sedan LX 2025,"I'm disappointed that rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+134,Crossover Aria 2024,"Had to jump start the 12V battery three times in two months, dealership says it's normal.",3
+135,Compact Hatch Nova 2023,"I have to say, braking feels confident and responsive, especially in emergency stops.",5
+136,Crossover Aria 2024,I'm disappointed that heater takes forever to warm up the cabin during winter mornings.,3
+137,SUV Trailmaster 2025,"To be honest, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+138,Compact Hatch Nova 2024,"To be honest, service staff were dismissive about my concerns and didn't document the complaint properly.",1
+139,Compact Hatch Nova 2023,"Regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",2
+140,Sedan LX 2025,"Frustratingly, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",1
+141,Sedan LX 2025,"I have to say, the touchscreen is fast and CarPlay connects instantly every time.",5
+142,Sedan LX 2025,"To be honest, the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.",1
+143,Sedan LX 2025,"I have to say, braking feels confident and responsive, especially in emergency stops.",5
+144,Compact Hatch Nova 2024,"I'm disappointed that warranty claim was denied without a clear explanation, very poor communication.",3
+145,EV Volt-X 2025,"Frustratingly, transmission hesitates and jerks when shifting from first to second gear.",3
+146,Crossover Aria 2024,"Bluetooth constantly disconnects mid-call, very frustrating on long drives.",1
+147,Sedan LX 2024,Heater takes forever to warm up the cabin during winter mornings.,1
+148,SUV Trailmaster 2024,I'm disappointed that transmission made a clunking sound and the dealership couldn't replicate the issue.,3
+149,Compact Hatch Nova 2023,"Unfortunately, transmission made a clunking sound and the dealership couldn't replicate the issue.",2
+150,EV Volt-X 2025,"To be honest, transmission hesitates and jerks when shifting from first to second gear.",2
+151,Sedan LX 2024,"Warranty claim was denied without a clear explanation, very poor communication.",2
+152,Pickup RangeRunner 2024,"Unfortunately, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",3
+153,Sedan LX 2024,"I have to say, climate control cools the cabin down fast even on hot days.",4
+154,Sedan LX 2024,"Frustratingly, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",1
+155,Compact Hatch Nova 2023,"Frustratingly, carPlay randomly stops working after a software update and support has no fix.",1
+156,EV Volt-X 2024,"So far, the battery holds charge really well even in winter, very impressed with the range.",5
+157,Sedan LX 2025,"To be honest, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+158,EV Volt-X 2024,"Frustratingly, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",3
+159,SUV Trailmaster 2025,"Frustratingly, warranty claim was denied without a clear explanation, very poor communication.",2
+160,Compact Hatch Nova 2024,Seat stitching came apart after only a few months of normal use.,1
+161,Compact Hatch Nova 2024,I'm disappointed that heater takes forever to warm up the cabin during winter mornings.,2
+162,Crossover Aria 2024,I'm disappointed that climate control settings reset randomly and the cabin gets uncomfortably warm.,3
+163,Compact Hatch Nova 2024,"Frustratingly, service staff were dismissive about my concerns and didn't document the complaint properly.",2
+164,Compact Hatch Nova 2023,"Frustratingly, voice assistant misunderstands basic commands most of the time, hardly usable.",2
+165,Crossover Aria 2024,"To be honest, climate control settings reset randomly and the cabin gets uncomfortably warm.",2
+166,EV Volt-X 2025,"Overall, braking feels confident and responsive, especially in emergency stops.",5
+167,SUV Trailmaster 2024,"I have to say, dealer honored the warranty claim without any hassle, great experience overall.",5
+168,Sedan LX 2025,I'm disappointed that the battery management system throws a voltage warning randomly on cold mornings.,2
+169,SUV Trailmaster 2024,"Unfortunately, had to jump start the 12V battery three times in two months, dealership says it's normal.",2
+170,Compact Hatch Nova 2023,"Unfortunately, air conditioning stopped blowing cold air after six months, still under investigation.",2
+171,EV Volt-X 2025,"Unfortunately, the touchscreen has noticeable lag when switching between navigation and music apps.",3
+172,Sedan LX 2024,"Gear shifts are smooth and barely noticeable, very refined transmission.",5
+173,Sedan LX 2025,"To be honest, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",2
+174,SUV Trailmaster 2024,"I have to say, the battery holds charge really well even in winter, very impressed with the range.",5
+175,EV Volt-X 2025,"I'm disappointed that the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+176,SUV Trailmaster 2024,Transmission made a clunking sound and the dealership couldn't replicate the issue.,1
+177,SUV Trailmaster 2025,"Regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",2
+178,Compact Hatch Nova 2023,I'm disappointed that there's a persistent rattle from the rear door that the dealer couldn't diagnose.,2
+179,Compact Hatch Nova 2024,"I'm disappointed that warranty claim was denied without a clear explanation, very poor communication.",1
+180,EV Volt-X 2024,"Range dropped noticeably after just 8 months, now getting 40 miles less than when new.",2
+181,Pickup RangeRunner 2024,"To be honest, same issue was 'fixed' twice and came back both times within days.",2
+182,Crossover Aria 2024,I'm disappointed that the battery management system throws a voltage warning randomly on cold mornings.,2
+183,Sedan LX 2024,"I'm disappointed that warranty claim was denied without a clear explanation, very poor communication.",3
+184,Compact Hatch Nova 2023,Climate control cools the cabin down fast even on hot days.,5
+185,SUV Trailmaster 2025,"So far, climate control cools the cabin down fast even on hot days.",5
+186,Sedan LX 2024,"Unfortunately, bluetooth constantly disconnects mid-call, very frustrating on long drives.",2
+187,SUV Trailmaster 2024,I'm disappointed that climate control settings reset randomly and the cabin gets uncomfortably warm.,1
+188,SUV Trailmaster 2025,"To be honest, the touchscreen has noticeable lag when switching between navigation and music apps.",1
+189,Compact Hatch Nova 2024,Heater takes forever to warm up the cabin during winter mornings.,2
+190,EV Volt-X 2025,I'm disappointed that heater takes forever to warm up the cabin during winter mornings.,1
+191,Pickup RangeRunner 2024,"So far, gear shifts are smooth and barely noticeable, very refined transmission.",5
+192,EV Volt-X 2024,"Unfortunately, the touchscreen has noticeable lag when switching between navigation and music apps.",3
+193,Pickup RangeRunner 2024,"Range dropped noticeably after just 8 months, now getting 40 miles less than when new.",2
+194,Crossover Aria 2024,"Unfortunately, had to jump start the 12V battery three times in two months, dealership says it's normal.",3
+195,Compact Hatch Nova 2023,"Overall, the touchscreen is fast and CarPlay connects instantly every time.",5
+196,Sedan LX 2024,"Unfortunately, service staff were dismissive about my concerns and didn't document the complaint properly.",2
+197,SUV Trailmaster 2024,"Noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",2
+198,SUV Trailmaster 2024,Transmission made a clunking sound and the dealership couldn't replicate the issue.,2
+199,Pickup RangeRunner 2024,"Warranty claim was denied without a clear explanation, very poor communication.",2
+200,Compact Hatch Nova 2023,"I have to say, the battery holds charge really well even in winter, very impressed with the range.",4
+201,Compact Hatch Nova 2024,I'm disappointed that climate control settings reset randomly and the cabin gets uncomfortably warm.,2
+202,Compact Hatch Nova 2023,"Unfortunately, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",1
+203,EV Volt-X 2025,"Unfortunately, had to wait three weeks just to get a service appointment for a recurring issue.",1
+204,Compact Hatch Nova 2024,"Overall, braking feels confident and responsive, especially in emergency stops.",4
+205,SUV Trailmaster 2024,I'm disappointed that seat stitching came apart after only a few months of normal use.,3
+206,Compact Hatch Nova 2024,"To be honest, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",2
+207,SUV Trailmaster 2024,"Unfortunately, climate control settings reset randomly and the cabin gets uncomfortably warm.",1
+208,EV Volt-X 2025,The touchscreen is fast and CarPlay connects instantly every time.,4
+209,Compact Hatch Nova 2024,"Frustratingly, there's a grinding noise when braking at low speed, took it in twice and it's still there.",1
+210,Compact Hatch Nova 2024,"I'm disappointed that warranty claim was denied without a clear explanation, very poor communication.",3
+211,Sedan LX 2024,"Charging speed at fast chargers is way below what was advertised, takes almost twice as long.",3
+212,Compact Hatch Nova 2023,"Unfortunately, infotainment screen freezes at least once a week and requires a full restart.",2
+213,Sedan LX 2025,"I have to say, gear shifts are smooth and barely noticeable, very refined transmission.",4
+214,EV Volt-X 2024,"To be honest, infotainment screen freezes at least once a week and requires a full restart.",3
+215,Crossover Aria 2024,"Frustratingly, same issue was 'fixed' twice and came back both times within days.",3
+216,Sedan LX 2025,"Frustratingly, voice assistant misunderstands basic commands most of the time, hardly usable.",1
+217,Pickup RangeRunner 2024,"To be honest, climate control settings reset randomly and the cabin gets uncomfortably warm.",2
+218,Pickup RangeRunner 2024,"Frustratingly, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+219,SUV Trailmaster 2024,I'm disappointed that carPlay randomly stops working after a software update and support has no fix.,2
+220,Pickup RangeRunner 2024,"Unfortunately, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",1
+221,Sedan LX 2024,Service center was quick and the staff kept me updated throughout the repair.,5
+222,EV Volt-X 2025,"Frustratingly, dashboard trim started rattling within the first month, very annoying on rough roads.",2
+223,Crossover Aria 2024,"Honestly, climate control cools the cabin down fast even on hot days.",5
+224,SUV Trailmaster 2024,"To be honest, voice assistant misunderstands basic commands most of the time, hardly usable.",2
+225,EV Volt-X 2025,"Braking feels confident and responsive, especially in emergency stops.",4
+226,Compact Hatch Nova 2024,"Frustratingly, air conditioning stopped blowing cold air after six months, still under investigation.",3
+227,EV Volt-X 2024,"Dashboard trim started rattling within the first month, very annoying on rough roads.",1
+228,EV Volt-X 2025,I'm disappointed that the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.,1
+229,SUV Trailmaster 2024,"Overall, braking feels confident and responsive, especially in emergency stops.",4
+230,Pickup RangeRunner 2024,"I have to say, the battery holds charge really well even in winter, very impressed with the range.",5
+231,Crossover Aria 2024,I'm disappointed that carPlay randomly stops working after a software update and support has no fix.,3
+232,Crossover Aria 2024,"So far, the battery holds charge really well even in winter, very impressed with the range.",4
+233,Compact Hatch Nova 2023,"Frustratingly, warranty claim was denied without a clear explanation, very poor communication.",3
+234,Sedan LX 2025,"Noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",2
+235,EV Volt-X 2024,Transmission made a clunking sound and the dealership couldn't replicate the issue.,1
+236,Sedan LX 2024,"Unfortunately, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+237,EV Volt-X 2024,"Honestly, the touchscreen is fast and CarPlay connects instantly every time.",5
+238,SUV Trailmaster 2024,"To be honest, had to jump start the 12V battery three times in two months, dealership says it's normal.",2
+239,Pickup RangeRunner 2024,"Overall, seats are extremely comfortable even on long road trips.",4
+240,Crossover Aria 2024,I'm disappointed that transmission hesitates and jerks when shifting from first to second gear.,2
+241,Sedan LX 2025,I'm disappointed that there's a persistent rattle from the rear door that the dealer couldn't diagnose.,2
+242,Compact Hatch Nova 2023,"The battery holds charge really well even in winter, very impressed with the range.",5
+243,Pickup RangeRunner 2024,"To be honest, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",3
+244,EV Volt-X 2025,I'm disappointed that transmission made a clunking sound and the dealership couldn't replicate the issue.,1
+245,Sedan LX 2025,The touchscreen is fast and CarPlay connects instantly every time.,5
+246,SUV Trailmaster 2024,I'm disappointed that cheap plastic on the door panels scratches very easily.,1
+247,Crossover Aria 2024,"To be honest, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",1
+248,Compact Hatch Nova 2023,"So far, climate control cools the cabin down fast even on hot days.",5
+249,Crossover Aria 2024,"Frustratingly, climate control settings reset randomly and the cabin gets uncomfortably warm.",3
+250,Compact Hatch Nova 2023,"So far, software updates have actually improved the infotainment system over time.",4
+251,Crossover Aria 2024,"I'm disappointed that rough shifting at low speeds, especially noticeable in stop-and-go traffic.",1
+252,Compact Hatch Nova 2023,"Frustratingly, carPlay randomly stops working after a software update and support has no fix.",1
+253,Sedan LX 2025,"Unfortunately, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",3
+254,Compact Hatch Nova 2024,There's a persistent rattle from the rear door that the dealer couldn't diagnose.,1
+255,Crossover Aria 2024,"Honestly, gear shifts are smooth and barely noticeable, very refined transmission.",5
+256,Sedan LX 2025,"Frustratingly, dashboard trim started rattling within the first month, very annoying on rough roads.",2
+257,SUV Trailmaster 2025,"Unfortunately, service staff were dismissive about my concerns and didn't document the complaint properly.",2
+258,EV Volt-X 2025,"I'm disappointed that noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",2
+259,Sedan LX 2024,"Rough shifting at low speeds, especially noticeable in stop-and-go traffic.",2
+260,EV Volt-X 2024,"Frustratingly, the battery management system throws a voltage warning randomly on cold mornings.",2
+261,Sedan LX 2025,"Honestly, service center was quick and the staff kept me updated throughout the repair.",5
+262,Pickup RangeRunner 2024,I'm disappointed that same issue was 'fixed' twice and came back both times within days.,1
+263,Compact Hatch Nova 2024,"Honestly, interior materials feel premium and have held up well after a year of daily use.",5
+264,Sedan LX 2025,Service center was quick and the staff kept me updated throughout the repair.,5
+265,SUV Trailmaster 2024,I'm disappointed that cheap plastic on the door panels scratches very easily.,1
+266,SUV Trailmaster 2025,"So far, software updates have actually improved the infotainment system over time.",4
+267,Compact Hatch Nova 2024,"Brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",3
+268,Crossover Aria 2024,"To be honest, the battery management system throws a voltage warning randomly on cold mornings.",2
+269,Compact Hatch Nova 2023,"To be honest, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+270,Crossover Aria 2024,"Frustratingly, noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",2
+271,Compact Hatch Nova 2024,"So far, climate control cools the cabin down fast even on hot days.",4
+272,EV Volt-X 2025,"So far, software updates have actually improved the infotainment system over time.",5
+273,Compact Hatch Nova 2024,"Frustratingly, rough shifting at low speeds, especially noticeable in stop-and-go traffic.",3
+274,SUV Trailmaster 2024,"Gear shifts are smooth and barely noticeable, very refined transmission.",5
+275,Sedan LX 2025,"Range dropped noticeably after just 8 months, now getting 40 miles less than when new.",3
+276,EV Volt-X 2024,"To be honest, air conditioning stopped blowing cold air after six months, still under investigation.",2
+277,SUV Trailmaster 2025,"Unfortunately, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",2
+278,Pickup RangeRunner 2024,"Overall, software updates have actually improved the infotainment system over time.",5
+279,SUV Trailmaster 2025,I'm disappointed that infotainment screen freezes at least once a week and requires a full restart.,1
+280,SUV Trailmaster 2024,"So far, software updates have actually improved the infotainment system over time.",4
+281,Compact Hatch Nova 2023,"So far, software updates have actually improved the infotainment system over time.",5
+282,EV Volt-X 2024,"Unfortunately, dashboard trim started rattling within the first month, very annoying on rough roads.",1
+283,Compact Hatch Nova 2024,Climate control settings reset randomly and the cabin gets uncomfortably warm.,2
+284,Sedan LX 2025,"Honestly, the battery holds charge really well even in winter, very impressed with the range.",4
+285,Sedan LX 2025,"Frustratingly, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+286,Crossover Aria 2024,Climate control cools the cabin down fast even on hot days.,4
+287,Crossover Aria 2024,"Unfortunately, warranty claim was denied without a clear explanation, very poor communication.",2
+288,Compact Hatch Nova 2024,"Unfortunately, there's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+289,Compact Hatch Nova 2023,"I have to say, the battery holds charge really well even in winter, very impressed with the range.",4
+290,Sedan LX 2024,I'm disappointed that same issue was 'fixed' twice and came back both times within days.,2
+291,Crossover Aria 2024,"Unfortunately, air conditioning stopped blowing cold air after six months, still under investigation.",2
+292,SUV Trailmaster 2024,"I'm disappointed that rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",2
+293,Sedan LX 2025,"To be honest, service staff were dismissive about my concerns and didn't document the complaint properly.",2
+294,Sedan LX 2024,"To be honest, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+295,EV Volt-X 2024,"Frustratingly, voice assistant misunderstands basic commands most of the time, hardly usable.",1
+296,Sedan LX 2024,I'm disappointed that heater takes forever to warm up the cabin during winter mornings.,2
+297,Pickup RangeRunner 2024,"Frustratingly, carPlay randomly stops working after a software update and support has no fix.",2
+298,Compact Hatch Nova 2023,"Frustratingly, noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",2
+299,Sedan LX 2025,"Frustratingly, air conditioning stopped blowing cold air after six months, still under investigation.",2
+300,EV Volt-X 2024,Interior materials feel premium and have held up well after a year of daily use.,5
+301,Compact Hatch Nova 2023,"I'm disappointed that range dropped noticeably after just 8 months, now getting 40 miles less than when new.",3
+302,Compact Hatch Nova 2023,"I'm disappointed that warranty claim was denied without a clear explanation, very poor communication.",1
+303,Pickup RangeRunner 2024,"Dealer honored the warranty claim without any hassle, great experience overall.",5
+304,Pickup RangeRunner 2024,"Overall, service center was quick and the staff kept me updated throughout the repair.",5
+305,SUV Trailmaster 2024,"Overall, interior materials feel premium and have held up well after a year of daily use.",5
+306,Sedan LX 2025,"So far, service center was quick and the staff kept me updated throughout the repair.",4
+307,Crossover Aria 2024,"Frustratingly, heater takes forever to warm up the cabin during winter mornings.",1
+308,EV Volt-X 2025,I'm disappointed that there's a persistent rattle from the rear door that the dealer couldn't diagnose.,2
+309,EV Volt-X 2025,"Air conditioning stopped blowing cold air after six months, still under investigation.",2
+310,Sedan LX 2024,"Unfortunately, bluetooth constantly disconnects mid-call, very frustrating on long drives.",1
+311,EV Volt-X 2024,I'm disappointed that transmission hesitates and jerks when shifting from first to second gear.,2
+312,SUV Trailmaster 2025,"I have to say, braking feels confident and responsive, especially in emergency stops.",4
+313,Compact Hatch Nova 2023,"So far, braking feels confident and responsive, especially in emergency stops.",4
+314,Sedan LX 2025,"Honestly, climate control cools the cabin down fast even on hot days.",5
+315,SUV Trailmaster 2024,"To be honest, cheap plastic on the door panels scratches very easily.",2
+316,SUV Trailmaster 2025,"To be honest, seat stitching came apart after only a few months of normal use.",2
+317,Compact Hatch Nova 2023,I'm disappointed that the battery management system throws a voltage warning randomly on cold mornings.,3
+318,EV Volt-X 2024,"Unfortunately, brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",2
+319,Crossover Aria 2024,"I have to say, dealer honored the warranty claim without any hassle, great experience overall.",4
+320,Compact Hatch Nova 2023,"I have to say, braking feels confident and responsive, especially in emergency stops.",5
+321,SUV Trailmaster 2024,"Voice assistant misunderstands basic commands most of the time, hardly usable.",1
+322,Compact Hatch Nova 2024,"Unfortunately, transmission hesitates and jerks when shifting from first to second gear.",1
+323,EV Volt-X 2025,"To be honest, carPlay randomly stops working after a software update and support has no fix.",3
+324,Compact Hatch Nova 2024,"So far, software updates have actually improved the infotainment system over time.",5
+325,Sedan LX 2025,"Rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",3
+326,Crossover Aria 2024,"To be honest, service staff were dismissive about my concerns and didn't document the complaint properly.",3
+327,Sedan LX 2025,"Overall, the touchscreen is fast and CarPlay connects instantly every time.",4
+328,Crossover Aria 2024,"So far, dealer honored the warranty claim without any hassle, great experience overall.",5
+329,EV Volt-X 2024,There's a persistent rattle from the rear door that the dealer couldn't diagnose.,2
+330,Compact Hatch Nova 2023,I'm disappointed that transmission made a clunking sound and the dealership couldn't replicate the issue.,1
+331,Compact Hatch Nova 2023,"Frustratingly, warranty claim was denied without a clear explanation, very poor communication.",2
+332,EV Volt-X 2025,"I'm disappointed that there's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+333,Compact Hatch Nova 2024,"Rough shifting at low speeds, especially noticeable in stop-and-go traffic.",1
+334,Compact Hatch Nova 2023,I'm disappointed that infotainment screen freezes at least once a week and requires a full restart.,1
+335,Crossover Aria 2024,"Frustratingly, the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.",2
+336,Crossover Aria 2024,"Honestly, braking feels confident and responsive, especially in emergency stops.",5
+337,Compact Hatch Nova 2023,"Braking feels confident and responsive, especially in emergency stops.",5
+338,Compact Hatch Nova 2024,"Frustratingly, infotainment screen freezes at least once a week and requires a full restart.",2
+339,Sedan LX 2024,"Unfortunately, the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.",2
+340,Compact Hatch Nova 2024,I'm disappointed that transmission made a clunking sound and the dealership couldn't replicate the issue.,1
+341,EV Volt-X 2025,"I'm disappointed that air conditioning stopped blowing cold air after six months, still under investigation.",2
+342,Compact Hatch Nova 2024,Infotainment screen freezes at least once a week and requires a full restart.,1
+343,Compact Hatch Nova 2024,"Frustratingly, infotainment screen freezes at least once a week and requires a full restart.",2
+344,Sedan LX 2025,Climate control settings reset randomly and the cabin gets uncomfortably warm.,1
+345,EV Volt-X 2025,"Range dropped noticeably after just 8 months, now getting 40 miles less than when new.",1
+346,Sedan LX 2024,"Regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+347,Compact Hatch Nova 2024,"Frustratingly, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",2
+348,EV Volt-X 2025,"To be honest, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",3
+349,Crossover Aria 2024,"I'm disappointed that voice assistant misunderstands basic commands most of the time, hardly usable.",2
+350,EV Volt-X 2024,Seats are extremely comfortable even on long road trips.,5
+351,Pickup RangeRunner 2024,"Unfortunately, heater takes forever to warm up the cabin during winter mornings.",3
+352,Compact Hatch Nova 2023,The touchscreen is fast and CarPlay connects instantly every time.,5
+353,Crossover Aria 2024,"Overall, service center was quick and the staff kept me updated throughout the repair.",5
+354,SUV Trailmaster 2024,"Frustratingly, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+355,Sedan LX 2024,"To be honest, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+356,Pickup RangeRunner 2024,"To be honest, the touchscreen has noticeable lag when switching between navigation and music apps.",3
+357,SUV Trailmaster 2024,"Unfortunately, heater takes forever to warm up the cabin during winter mornings.",3
+358,Pickup RangeRunner 2024,"Regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",2
+359,Compact Hatch Nova 2024,"I'm disappointed that rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",2
+360,Compact Hatch Nova 2023,"Dealer honored the warranty claim without any hassle, great experience overall.",4
+361,EV Volt-X 2024,"To be honest, the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.",2
+362,Compact Hatch Nova 2023,"I'm disappointed that warranty claim was denied without a clear explanation, very poor communication.",2
+363,Sedan LX 2025,"Honestly, seats are extremely comfortable even on long road trips.",5
+364,SUV Trailmaster 2024,"I'm disappointed that warranty claim was denied without a clear explanation, very poor communication.",2
+365,Compact Hatch Nova 2023,"I'm disappointed that the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+366,EV Volt-X 2024,Service staff were dismissive about my concerns and didn't document the complaint properly.,3
+367,Crossover Aria 2024,Had to wait three weeks just to get a service appointment for a recurring issue.,1
+368,SUV Trailmaster 2025,"To be honest, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+369,SUV Trailmaster 2024,"Unfortunately, had to jump start the 12V battery three times in two months, dealership says it's normal.",1
+370,Compact Hatch Nova 2023,"I have to say, interior materials feel premium and have held up well after a year of daily use.",5
+371,EV Volt-X 2024,I'm disappointed that same issue was 'fixed' twice and came back both times within days.,1
+372,Compact Hatch Nova 2024,"To be honest, climate control settings reset randomly and the cabin gets uncomfortably warm.",1
+373,Pickup RangeRunner 2024,"Unfortunately, there's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+374,Sedan LX 2024,"Overall, braking feels confident and responsive, especially in emergency stops.",5
+375,Compact Hatch Nova 2023,I'm disappointed that cheap plastic on the door panels scratches very easily.,3
+376,Compact Hatch Nova 2023,Seat stitching came apart after only a few months of normal use.,2
+377,Compact Hatch Nova 2023,"So far, braking feels confident and responsive, especially in emergency stops.",5
+378,Crossover Aria 2024,I'm disappointed that same issue was 'fixed' twice and came back both times within days.,1
+379,Compact Hatch Nova 2024,"Frustratingly, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",2
+380,SUV Trailmaster 2024,"To be honest, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+381,Pickup RangeRunner 2024,"Honestly, the touchscreen is fast and CarPlay connects instantly every time.",4
+382,Crossover Aria 2024,"Honestly, gear shifts are smooth and barely noticeable, very refined transmission.",5
+383,Sedan LX 2024,"To be honest, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",1
+384,EV Volt-X 2024,Transmission made a clunking sound and the dealership couldn't replicate the issue.,1
+385,Crossover Aria 2024,"Honestly, dealer honored the warranty claim without any hassle, great experience overall.",4
+386,Compact Hatch Nova 2023,"So far, braking feels confident and responsive, especially in emergency stops.",5
+387,Compact Hatch Nova 2024,"Frustratingly, voice assistant misunderstands basic commands most of the time, hardly usable.",1
+388,Compact Hatch Nova 2024,"Unfortunately, climate control settings reset randomly and the cabin gets uncomfortably warm.",2
+389,Sedan LX 2025,Interior materials feel premium and have held up well after a year of daily use.,4
+390,Crossover Aria 2024,"To be honest, climate control settings reset randomly and the cabin gets uncomfortably warm.",3
+391,Sedan LX 2025,"Frustratingly, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+392,Compact Hatch Nova 2023,Had to wait three weeks just to get a service appointment for a recurring issue.,1
+393,Crossover Aria 2024,"Frustratingly, transmission made a clunking sound and the dealership couldn't replicate the issue.",1
+394,Pickup RangeRunner 2024,"Unfortunately, cheap plastic on the door panels scratches very easily.",2
+395,Sedan LX 2025,"Air conditioning stopped blowing cold air after six months, still under investigation.",1
+396,Sedan LX 2024,Transmission hesitates and jerks when shifting from first to second gear.,1
+397,SUV Trailmaster 2024,"To be honest, transmission made a clunking sound and the dealership couldn't replicate the issue.",2
+398,Pickup RangeRunner 2024,"I have to say, software updates have actually improved the infotainment system over time.",5
+399,Sedan LX 2025,"Honestly, the battery holds charge really well even in winter, very impressed with the range.",4
+400,Sedan LX 2024,"To be honest, seat stitching came apart after only a few months of normal use.",1
+401,Compact Hatch Nova 2024,"Frustratingly, voice assistant misunderstands basic commands most of the time, hardly usable.",2
+402,SUV Trailmaster 2024,I'm disappointed that heater takes forever to warm up the cabin during winter mornings.,2
+403,Pickup RangeRunner 2024,"Overall, braking feels confident and responsive, especially in emergency stops.",5
+404,SUV Trailmaster 2025,"So far, climate control cools the cabin down fast even on hot days.",4
+405,Sedan LX 2024,"Had to jump start the 12V battery three times in two months, dealership says it's normal.",1
+406,Compact Hatch Nova 2024,"To be honest, warranty claim was denied without a clear explanation, very poor communication.",1
+407,Compact Hatch Nova 2024,"So far, climate control cools the cabin down fast even on hot days.",5
+408,Crossover Aria 2024,"Braking feels confident and responsive, especially in emergency stops.",5
+409,SUV Trailmaster 2025,"There's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+410,SUV Trailmaster 2024,"Voice assistant misunderstands basic commands most of the time, hardly usable.",2
+411,Compact Hatch Nova 2024,"Frustratingly, cheap plastic on the door panels scratches very easily.",2
+412,Pickup RangeRunner 2024,I'm disappointed that service staff were dismissive about my concerns and didn't document the complaint properly.,1
+413,EV Volt-X 2024,"To be honest, air conditioning stopped blowing cold air after six months, still under investigation.",1
+414,Pickup RangeRunner 2024,"Air conditioning stopped blowing cold air after six months, still under investigation.",2
+415,EV Volt-X 2024,"To be honest, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",1
+416,Sedan LX 2025,I'm disappointed that the touchscreen has noticeable lag when switching between navigation and music apps.,3
+417,Pickup RangeRunner 2024,"Honestly, service center was quick and the staff kept me updated throughout the repair.",5
+418,Crossover Aria 2024,"To be honest, dashboard trim started rattling within the first month, very annoying on rough roads.",3
+419,Sedan LX 2024,I'm disappointed that the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.,1
+420,SUV Trailmaster 2025,"I have to say, braking feels confident and responsive, especially in emergency stops.",5
+421,EV Volt-X 2025,Service staff were dismissive about my concerns and didn't document the complaint properly.,2
+422,EV Volt-X 2024,"I'm disappointed that rough shifting at low speeds, especially noticeable in stop-and-go traffic.",2
+423,Compact Hatch Nova 2023,"Overall, seats are extremely comfortable even on long road trips.",5
+424,Crossover Aria 2024,"Unfortunately, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+425,Crossover Aria 2024,Same issue was 'fixed' twice and came back both times within days.,3
+426,EV Volt-X 2025,"To be honest, service staff were dismissive about my concerns and didn't document the complaint properly.",1
+427,Compact Hatch Nova 2024,"Frustratingly, noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",2
+428,Compact Hatch Nova 2023,"I have to say, software updates have actually improved the infotainment system over time.",4
+429,Compact Hatch Nova 2024,"So far, service center was quick and the staff kept me updated throughout the repair.",5
+430,Sedan LX 2024,"Braking feels confident and responsive, especially in emergency stops.",4
+431,SUV Trailmaster 2024,"Frustratingly, air conditioning stopped blowing cold air after six months, still under investigation.",1
+432,Compact Hatch Nova 2024,"So far, the battery holds charge really well even in winter, very impressed with the range.",5
+433,Compact Hatch Nova 2023,"Frustratingly, voice assistant misunderstands basic commands most of the time, hardly usable.",1
+434,Sedan LX 2024,"Unfortunately, had to jump start the 12V battery three times in two months, dealership says it's normal.",3
+435,Compact Hatch Nova 2024,"Unfortunately, same issue was 'fixed' twice and came back both times within days.",2
+436,Sedan LX 2025,"Overall, climate control cools the cabin down fast even on hot days.",5
+437,EV Volt-X 2024,"Rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",2
+438,Pickup RangeRunner 2024,"Honestly, the touchscreen is fast and CarPlay connects instantly every time.",5
+439,Sedan LX 2025,I'm disappointed that seat stitching came apart after only a few months of normal use.,1
+440,Compact Hatch Nova 2023,"Had to jump start the 12V battery three times in two months, dealership says it's normal.",1
+441,Compact Hatch Nova 2023,"Unfortunately, service staff were dismissive about my concerns and didn't document the complaint properly.",2
+442,Sedan LX 2024,Service center was quick and the staff kept me updated throughout the repair.,4
+443,Sedan LX 2024,"Honestly, braking feels confident and responsive, especially in emergency stops.",4
+444,EV Volt-X 2025,"So far, service center was quick and the staff kept me updated throughout the repair.",4
+445,EV Volt-X 2024,"Unfortunately, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+446,EV Volt-X 2025,There's a persistent rattle from the rear door that the dealer couldn't diagnose.,2
+447,EV Volt-X 2025,Climate control cools the cabin down fast even on hot days.,4
+448,Crossover Aria 2024,"I'm disappointed that the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",3
+449,EV Volt-X 2024,"Unfortunately, cheap plastic on the door panels scratches very easily.",2
+450,SUV Trailmaster 2024,"Frustratingly, transmission made a clunking sound and the dealership couldn't replicate the issue.",3
+451,Sedan LX 2025,"To be honest, same issue was 'fixed' twice and came back both times within days.",1
+452,EV Volt-X 2025,"Frustratingly, bluetooth constantly disconnects mid-call, very frustrating on long drives.",2
+453,EV Volt-X 2025,"Frustratingly, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",2
+454,Compact Hatch Nova 2023,"Frustratingly, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",3
+455,Sedan LX 2025,"Unfortunately, dashboard trim started rattling within the first month, very annoying on rough roads.",2
+456,Sedan LX 2024,"Frustratingly, cheap plastic on the door panels scratches very easily.",2
+457,SUV Trailmaster 2025,Transmission hesitates and jerks when shifting from first to second gear.,3
+458,SUV Trailmaster 2024,"To be honest, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",2
+459,SUV Trailmaster 2024,"Unfortunately, bluetooth constantly disconnects mid-call, very frustrating on long drives.",2
+460,EV Volt-X 2025,"Unfortunately, the touchscreen has noticeable lag when switching between navigation and music apps.",2
+461,Crossover Aria 2024,"Braking feels confident and responsive, especially in emergency stops.",4
+462,Pickup RangeRunner 2024,"Unfortunately, rough shifting at low speeds, especially noticeable in stop-and-go traffic.",2
+463,EV Volt-X 2025,"Frustratingly, heater takes forever to warm up the cabin during winter mornings.",2
+464,EV Volt-X 2025,"Honestly, climate control cools the cabin down fast even on hot days.",5
+465,Pickup RangeRunner 2024,"To be honest, same issue was 'fixed' twice and came back both times within days.",2
+466,SUV Trailmaster 2025,Software updates have actually improved the infotainment system over time.,5
+467,Sedan LX 2025,I'm disappointed that transmission made a clunking sound and the dealership couldn't replicate the issue.,3
+468,Compact Hatch Nova 2024,"To be honest, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+469,EV Volt-X 2024,"Frustratingly, service staff were dismissive about my concerns and didn't document the complaint properly.",1
+470,SUV Trailmaster 2024,"I have to say, climate control cools the cabin down fast even on hot days.",5
+471,Pickup RangeRunner 2024,"Frustratingly, there's a grinding noise when braking at low speed, took it in twice and it's still there.",1
+472,Pickup RangeRunner 2024,"Gear shifts are smooth and barely noticeable, very refined transmission.",5
+473,Sedan LX 2024,Seats are extremely comfortable even on long road trips.,5
+474,SUV Trailmaster 2025,"Overall, service center was quick and the staff kept me updated throughout the repair.",5
+475,Pickup RangeRunner 2024,"Brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",2
+476,EV Volt-X 2024,"Unfortunately, air conditioning stopped blowing cold air after six months, still under investigation.",1
+477,EV Volt-X 2025,"I have to say, interior materials feel premium and have held up well after a year of daily use.",5
+478,Sedan LX 2024,"Honestly, gear shifts are smooth and barely noticeable, very refined transmission.",5
+479,SUV Trailmaster 2024,"Unfortunately, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+480,Compact Hatch Nova 2023,"Bluetooth constantly disconnects mid-call, very frustrating on long drives.",2
+481,Sedan LX 2025,I'm disappointed that transmission made a clunking sound and the dealership couldn't replicate the issue.,2
+482,EV Volt-X 2025,"Overall, the battery holds charge really well even in winter, very impressed with the range.",4
+483,SUV Trailmaster 2024,Service center was quick and the staff kept me updated throughout the repair.,5
+484,SUV Trailmaster 2025,"Frustratingly, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",2
+485,Sedan LX 2024,"Frustratingly, warranty claim was denied without a clear explanation, very poor communication.",3
+486,Sedan LX 2024,"Frustratingly, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+487,Sedan LX 2025,"Brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",3
+488,Sedan LX 2025,"Frustratingly, there's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+489,Pickup RangeRunner 2024,"Dealer honored the warranty claim without any hassle, great experience overall.",5
+490,Compact Hatch Nova 2023,"I'm disappointed that rough shifting at low speeds, especially noticeable in stop-and-go traffic.",3
+491,Crossover Aria 2024,"Braking feels confident and responsive, especially in emergency stops.",4
+492,EV Volt-X 2024,"To be honest, had to wait three weeks just to get a service appointment for a recurring issue.",1
+493,Pickup RangeRunner 2024,"There's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+494,SUV Trailmaster 2024,"Frustratingly, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",2
+495,SUV Trailmaster 2024,Service staff were dismissive about my concerns and didn't document the complaint properly.,2
+496,Crossover Aria 2024,"Frustratingly, carPlay randomly stops working after a software update and support has no fix.",1
+497,SUV Trailmaster 2024,"Frustratingly, air conditioning stopped blowing cold air after six months, still under investigation.",1
+498,Compact Hatch Nova 2023,Climate control settings reset randomly and the cabin gets uncomfortably warm.,2
+499,SUV Trailmaster 2024,"Frustratingly, warranty claim was denied without a clear explanation, very poor communication.",1
+500,Sedan LX 2024,I'm disappointed that seat stitching came apart after only a few months of normal use.,2
+501,Crossover Aria 2024,"Frustratingly, there's a grinding noise when braking at low speed, took it in twice and it's still there.",2
+502,Compact Hatch Nova 2024,"I'm disappointed that dashboard trim started rattling within the first month, very annoying on rough roads.",2
+503,Compact Hatch Nova 2024,"I have to say, interior materials feel premium and have held up well after a year of daily use.",4
+504,Sedan LX 2024,"I'm disappointed that noticed a delay in acceleration response, like the transmission doesn't know which gear to pick.",2
+505,Sedan LX 2025,"Frustratingly, infotainment screen freezes at least once a week and requires a full restart.",1
+506,Pickup RangeRunner 2024,"Braking feels confident and responsive, especially in emergency stops.",4
+507,Sedan LX 2024,"To be honest, seat stitching came apart after only a few months of normal use.",3
+508,SUV Trailmaster 2024,"Voice assistant misunderstands basic commands most of the time, hardly usable.",2
+509,Sedan LX 2025,Same issue was 'fixed' twice and came back both times within days.,1
+510,SUV Trailmaster 2024,"Honestly, climate control cools the cabin down fast even on hot days.",4
+511,Pickup RangeRunner 2024,"To be honest, the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.",2
+512,Pickup RangeRunner 2024,"Frustratingly, the brake pedal feels spongy and needs to be pressed almost to the floor to stop smoothly.",2
+513,Compact Hatch Nova 2024,"Frustratingly, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+514,Compact Hatch Nova 2023,"I have to say, dealer honored the warranty claim without any hassle, great experience overall.",5
+515,EV Volt-X 2025,"Frustratingly, dashboard trim started rattling within the first month, very annoying on rough roads.",1
+516,SUV Trailmaster 2025,"Frustratingly, air conditioning stopped blowing cold air after six months, still under investigation.",2
+517,Compact Hatch Nova 2024,I'm disappointed that carPlay randomly stops working after a software update and support has no fix.,3
+518,Sedan LX 2024,"I'm disappointed that regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",1
+519,Sedan LX 2025,"Unfortunately, had to jump start the 12V battery three times in two months, dealership says it's normal.",1
+520,SUV Trailmaster 2024,"To be honest, transmission made a clunking sound and the dealership couldn't replicate the issue.",2
+521,EV Volt-X 2025,"Overall, braking feels confident and responsive, especially in emergency stops.",5
+522,Pickup RangeRunner 2024,"Unfortunately, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",2
+523,Sedan LX 2025,"I have to say, service center was quick and the staff kept me updated throughout the repair.",4
+524,Crossover Aria 2024,"To be honest, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",1
+525,EV Volt-X 2025,"Unfortunately, dashboard trim started rattling within the first month, very annoying on rough roads.",1
+526,Sedan LX 2025,"Frustratingly, air conditioning stopped blowing cold air after six months, still under investigation.",1
+527,EV Volt-X 2025,"Unfortunately, transmission hesitates and jerks when shifting from first to second gear.",2
+528,Sedan LX 2025,"To be honest, bluetooth constantly disconnects mid-call, very frustrating on long drives.",3
+529,EV Volt-X 2025,"Frustratingly, seat stitching came apart after only a few months of normal use.",1
+530,Compact Hatch Nova 2023,"Dealer honored the warranty claim without any hassle, great experience overall.",4
+531,Crossover Aria 2024,"Overall, the battery holds charge really well even in winter, very impressed with the range.",5
+532,SUV Trailmaster 2025,"So far, software updates have actually improved the infotainment system over time.",5
+533,EV Volt-X 2024,"Unfortunately, same issue was 'fixed' twice and came back both times within days.",1
+534,EV Volt-X 2024,"Frustratingly, seat stitching came apart after only a few months of normal use.",1
+535,Pickup RangeRunner 2024,"I have to say, climate control cools the cabin down fast even on hot days.",4
+536,Compact Hatch Nova 2024,"Unfortunately, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+537,Crossover Aria 2024,"I have to say, the touchscreen is fast and CarPlay connects instantly every time.",5
+538,Sedan LX 2025,"Frustratingly, bluetooth constantly disconnects mid-call, very frustrating on long drives.",1
+539,Sedan LX 2024,"To be honest, cheap plastic on the door panels scratches very easily.",1
+540,Pickup RangeRunner 2024,Heater takes forever to warm up the cabin during winter mornings.,2
+541,Sedan LX 2025,I'm disappointed that service staff were dismissive about my concerns and didn't document the complaint properly.,2
+542,Compact Hatch Nova 2024,"To be honest, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",2
+543,Pickup RangeRunner 2024,I'm disappointed that transmission hesitates and jerks when shifting from first to second gear.,1
+544,Compact Hatch Nova 2023,"Unfortunately, had to jump start the 12V battery three times in two months, dealership says it's normal.",3
+545,Sedan LX 2024,"Unfortunately, seat stitching came apart after only a few months of normal use.",1
+546,Compact Hatch Nova 2024,"I'm disappointed that warranty claim was denied without a clear explanation, very poor communication.",3
+547,EV Volt-X 2025,"So far, climate control cools the cabin down fast even on hot days.",4
+548,Sedan LX 2024,"Overall, dealer honored the warranty claim without any hassle, great experience overall.",5
+549,EV Volt-X 2024,"Unfortunately, climate control settings reset randomly and the cabin gets uncomfortably warm.",3
+550,EV Volt-X 2025,"Warranty claim was denied without a clear explanation, very poor communication.",1
+551,SUV Trailmaster 2024,"Honestly, gear shifts are smooth and barely noticeable, very refined transmission.",5
+552,SUV Trailmaster 2025,"Unfortunately, climate control settings reset randomly and the cabin gets uncomfortably warm.",3
+553,Sedan LX 2024,"To be honest, the battery drains overnight even when the car is off, lost 15% charge parked in the garage.",2
+554,Sedan LX 2024,"To be honest, bluetooth constantly disconnects mid-call, very frustrating on long drives.",3
+555,EV Volt-X 2025,"So far, climate control cools the cabin down fast even on hot days.",4
+556,Sedan LX 2025,"Honestly, gear shifts are smooth and barely noticeable, very refined transmission.",5
+557,SUV Trailmaster 2025,"To be honest, infotainment screen freezes at least once a week and requires a full restart.",3
+558,EV Volt-X 2024,"I have to say, the battery holds charge really well even in winter, very impressed with the range.",5
+559,EV Volt-X 2025,"Unfortunately, the touchscreen has noticeable lag when switching between navigation and music apps.",1
+560,SUV Trailmaster 2025,CarPlay randomly stops working after a software update and support has no fix.,2
+561,Compact Hatch Nova 2024,"To be honest, the touchscreen has noticeable lag when switching between navigation and music apps.",1
+562,SUV Trailmaster 2025,"Unfortunately, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",3
+563,Sedan LX 2024,I'm disappointed that infotainment screen freezes at least once a week and requires a full restart.,2
+564,SUV Trailmaster 2025,"Overall, climate control cools the cabin down fast even on hot days.",5
+565,EV Volt-X 2024,"To be honest, brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",1
+566,Compact Hatch Nova 2023,"Honestly, charging at home overnight is seamless and the range estimate has been accurate.",4
+567,Sedan LX 2025,"Frustratingly, seat stitching came apart after only a few months of normal use.",3
+568,EV Volt-X 2024,"To be honest, seat stitching came apart after only a few months of normal use.",2
+569,EV Volt-X 2025,I'm disappointed that heater takes forever to warm up the cabin during winter mornings.,2
+570,Crossover Aria 2024,"To be honest, bluetooth constantly disconnects mid-call, very frustrating on long drives.",1
+571,EV Volt-X 2025,"Frustratingly, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",2
+572,EV Volt-X 2024,"Frustratingly, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",2
+573,EV Volt-X 2024,"So far, the touchscreen is fast and CarPlay connects instantly every time.",5
+574,Sedan LX 2025,"To be honest, range dropped noticeably after just 8 months, now getting 40 miles less than when new.",1
+575,EV Volt-X 2024,I'm disappointed that infotainment screen freezes at least once a week and requires a full restart.,1
+576,Compact Hatch Nova 2024,Charging at home overnight is seamless and the range estimate has been accurate.,4
+577,Sedan LX 2024,"Unfortunately, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",1
+578,SUV Trailmaster 2025,"So far, climate control cools the cabin down fast even on hot days.",5
+579,Crossover Aria 2024,The touchscreen is fast and CarPlay connects instantly every time.,5
+580,Compact Hatch Nova 2023,"To be honest, air conditioning stopped blowing cold air after six months, still under investigation.",1
+581,Sedan LX 2024,"Overall, charging at home overnight is seamless and the range estimate has been accurate.",5
+582,Pickup RangeRunner 2024,"Frustratingly, the battery management system throws a voltage warning randomly on cold mornings.",2
+583,EV Volt-X 2025,"To be honest, had to jump start the 12V battery three times in two months, dealership says it's normal.",1
+584,Sedan LX 2024,"To be honest, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",3
+585,Pickup RangeRunner 2024,"Frustratingly, cheap plastic on the door panels scratches very easily.",3
+586,SUV Trailmaster 2024,"Frustratingly, rough shifting at low speeds, especially noticeable in stop-and-go traffic.",2
+587,Compact Hatch Nova 2024,"To be honest, rear brakes wore out unevenly within the first year, dealer replaced under warranty but concerning.",1
+588,Compact Hatch Nova 2024,"I have to say, gear shifts are smooth and barely noticeable, very refined transmission.",5
+589,EV Volt-X 2024,"I have to say, software updates have actually improved the infotainment system over time.",4
+590,EV Volt-X 2024,"Unfortunately, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",1
+591,SUV Trailmaster 2025,Climate control cools the cabin down fast even on hot days.,4
+592,Compact Hatch Nova 2024,"I'm disappointed that charging speed at fast chargers is way below what was advertised, takes almost twice as long.",1
+593,Pickup RangeRunner 2024,Climate control cools the cabin down fast even on hot days.,5
+594,SUV Trailmaster 2025,"So far, climate control cools the cabin down fast even on hot days.",5
+595,Sedan LX 2024,Software updates have actually improved the infotainment system over time.,5
+596,Compact Hatch Nova 2024,"Frustratingly, seat stitching came apart after only a few months of normal use.",2
+597,SUV Trailmaster 2025,"Unfortunately, brakes started squeaking loudly after only 5000 miles, mechanic says pads are already worn.",3
+598,EV Volt-X 2025,"Unfortunately, regenerative braking is jerky and inconsistent, makes city driving uncomfortable.",3
+599,EV Volt-X 2025,"So far, braking feels confident and responsive, especially in emergency stops.",4
+600,Compact Hatch Nova 2024,"Unfortunately, charging speed at fast chargers is way below what was advertised, takes almost twice as long.",2
+4,Compact Hatch Nova 2023,"To be honest, there's a persistent rattle from the rear door that the dealer couldn't diagnose.",3
+601, ,  ,3
+602,Sedan LX 2024,,2

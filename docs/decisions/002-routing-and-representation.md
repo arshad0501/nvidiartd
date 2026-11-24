@@ -1,0 +1,9 @@
+# Complaint routing and representation choices
+
+The original global-sentiment gate misses factual and mixed-sentiment complaints. Version 2 preserves VADER's neutral class and signed compound while adding an independent complaint cue route. Each cue has a rule ID and exact source span. Negative sentiment remains a broad candidate signal. False positives, negation errors and unsupported issue cues remain possible; this is not an aspect-based learned classifier.
+
+Theme naming uses complete words/phrases. Ambiguous component matches can retain a mixed label instead of an unjustified component claim. Discourse prefixes are removed for vectorization, while original review text stays unchanged for evidence. Keywords use sparse means without allocating a full dense corpus per cluster.
+
+TF-IDF remains the default transparent representation. TruncatedSVD plus normalization is a working local alternative. Vector representations and sparse lexical explanations are separate objects; tests also exercise a fake dense backend. This fixes the adapter contract without claiming an NVIDIA embedding integration exists. LSA quality is measured and reported alongside the baseline; its existence does not imply it wins. The chosen K=7 remains a documented demo parameter rather than an inferred natural category count.
+
+Recommendation exemplars include central distinct texts and a diverse example. Rule-based advice uses the selected evidence to choose an inspectable triage rule, and never automatically performs recalls, bulletins, warranty actions or repairs. Hosted NVIDIA advice requires both configuration and explicit external-transfer enablement; strict schema/theme/evidence validation precedes publication. Schema validity does not establish semantic truth. Human review events retain originals, edits and optimistic versions, but reviewer names are self-entered and do not prove expertise.

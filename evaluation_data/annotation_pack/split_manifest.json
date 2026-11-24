@@ -1,0 +1,967 @@
+{
+  "seed": 2026,
+  "labels_status": "blank; independent annotators and adjudication required",
+  "warning": "Public sample contains complaint-selected reports, synthetic rows are repetitive; report sources separately.",
+  "items": [
+    {
+      "id": "2cf8c0d66cccdbd4",
+      "group": "fae2e94e3e4f",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "398dad1820d0ed1a",
+      "group": "a2c55aa1fab7",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "9fd85961e0e30264",
+      "group": "9fd85961e0e3",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "3fe728004223df9b",
+      "group": "3fe728004223",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "12a03c0e42b99449",
+      "group": "76eacc3eba4a",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "3f09460b4e7e3988",
+      "group": "3f09460b4e7e",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "482242e62e995263",
+      "group": "20c5e32b2f08",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "a6fd54349e9598c7",
+      "group": "a6fd54349e95",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "a8cefcc084bc9cbc",
+      "group": "a8cefcc084bc",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "514d616ab4f98946",
+      "group": "514d616ab4f9",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "abdb93afd4ea4e74",
+      "group": "abdb93afd4ea",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "23ce7dc0b2ca5973",
+      "group": "23ce7dc0b2ca",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "23d7906e26c02b24",
+      "group": "23d7906e26c0",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "4a1ac7b185cfc2cd",
+      "group": "5c4119af0275",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "5d21b45ad5968ca0",
+      "group": "2120f6472ab9",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "48a84f674ccaeec8",
+      "group": "dda2570717f6",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "2b439bffdce23984",
+      "group": "d328cc9e0b0d",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "d400a0a3a9ddcac9",
+      "group": "d400a0a3a9dd",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "64ad63cc2beade33",
+      "group": "a2c55aa1fab7",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "581f5df5700f047e",
+      "group": "581f5df5700f",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "174c5f2db38fe85c",
+      "group": "174c5f2db38f",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "17f5299120a0c79d",
+      "group": "17f5299120a0",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "01088cee29750d79",
+      "group": "21ee9bff42b6",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "c79c38723db84d42",
+      "group": "c7463bdf8154",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "75ec30a77c4e76fa",
+      "group": "75ec30a77c4e",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "14cfc30e8992c802",
+      "group": "14cfc30e8992",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "cd4020d0c0208dfa",
+      "group": "17f5299120a0",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "2c5884a3e4e407b4",
+      "group": "2c5884a3e4e4",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "d570f79981ea568b",
+      "group": "a0e539867304",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "c263265a52559a87",
+      "group": "c263265a5255",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "985b37f98ad1922d",
+      "group": "c7463bdf8154",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "00a570124480b6c2",
+      "group": "7c7cc0124f3c",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "75e29f911b080c33",
+      "group": "0fa34ef7c409",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "0cc51f2cb8501858",
+      "group": "0cc51f2cb850",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "f5e96975945ada98",
+      "group": "f5e96975945a",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "4e00432d7228d6e1",
+      "group": "683bcf5da205",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "6e6979ba47b4d778",
+      "group": "6e6979ba47b4",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "23d48c11a74a959a",
+      "group": "23d48c11a74a",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "a77d7e134564b306",
+      "group": "20c5e32b2f08",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "7f0b98730d0008ed",
+      "group": "dda2570717f6",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "fd3c69a55163f1b5",
+      "group": "fd3c69a55163",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "68f8030be4fbbfe2",
+      "group": "68f8030be4fb",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "45695a62c7c44ecf",
+      "group": "45695a62c7c4",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "85c3d616bf1f829c",
+      "group": "85c3d616bf1f",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "636f34c1fc660674",
+      "group": "636f34c1fc66",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "e2569589b8251595",
+      "group": "e2569589b825",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "37c47e6528b6aa7a",
+      "group": "ab577a718078",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "a7b9556fe075d524",
+      "group": "a7b9556fe075",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "fcc053cba78694b9",
+      "group": "fcc053cba786",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "8a2c90abe8efd56b",
+      "group": "8a2c90abe8ef",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "08fafea0e241126c",
+      "group": "08fafea0e241",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "2120f6472ab9b3a9",
+      "group": "2120f6472ab9",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "72e25cfbb58af8eb",
+      "group": "a1649b27aa89",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "888157e3c22aa3b1",
+      "group": "888157e3c22a",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "af1caf0285bea4ec",
+      "group": "af1caf0285be",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "563d11f0c1128c74",
+      "group": "563d11f0c112",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "3242cf182b418089",
+      "group": "3242cf182b41",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "00ae65ff3d893239",
+      "group": "00ae65ff3d89",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "00d3ee5f34770e79",
+      "group": "00d3ee5f3477",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "06c47b73cd8c9d59",
+      "group": "06c47b73cd8c",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "5a7dd5157e875052",
+      "group": "683bcf5da205",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "d80b65d7aa8db77b",
+      "group": "d80b65d7aa8d",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "8030fdbe93bfe976",
+      "group": "b46133b61565",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "3748353557ddc946",
+      "group": "3748353557dd",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "8b2032bece456c47",
+      "group": "8b2032bece45",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "fe378f965d80e5ec",
+      "group": "fe378f965d80",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "9d32e993512155a3",
+      "group": "20c5e32b2f08",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "6311fcbec3dd3f11",
+      "group": "913402042f00",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "9fc65bac504861ec",
+      "group": "9fc65bac5048",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "e644da0a6358ea47",
+      "group": "e644da0a6358",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "4d2ee61ac94d1fac",
+      "group": "4d2ee61ac94d",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "4d472b0ff595651e",
+      "group": "4d472b0ff595",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "fb6caea25f70944d",
+      "group": "fb6caea25f70",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "5a550fafa16e97b3",
+      "group": "5a550fafa16e",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "2cf17633beda9a36",
+      "group": "2cf17633beda",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "2513bf054484b11f",
+      "group": "7c7cc0124f3c",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "23e2c26b5df2a176",
+      "group": "23e2c26b5df2",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "bc3ddaff86672097",
+      "group": "bc3ddaff8667",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "e48d710027f50840",
+      "group": "08fafea0e241",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "1b4cbb24326e7a64",
+      "group": "08fafea0e241",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "c9087323ec63fcfc",
+      "group": "c9087323ec63",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "efd04f4cee84eac3",
+      "group": "df1596ba9881",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "a3b4ec138901d11e",
+      "group": "a3b4ec138901",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "51c731ed53c04037",
+      "group": "68f8030be4fb",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "a0cd2d0e54c38d7f",
+      "group": "0fa34ef7c409",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "128f19f133743dce",
+      "group": "76eacc3eba4a",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "2d8e8308a1266097",
+      "group": "2d8e8308a126",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "ae22bc4aaff83697",
+      "group": "913402042f00",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "18799999a466ff41",
+      "group": "18799999a466",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "2d6f030341af681c",
+      "group": "2d6f030341af",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "073a01731a445a63",
+      "group": "073a01731a44",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "04bf54765ae772b1",
+      "group": "04bf54765ae7",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "1526740a467c91da",
+      "group": "1526740a467c",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "4940922fa4285e81",
+      "group": "2dd1481427f3",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "83bc15c07a3df402",
+      "group": "68f8030be4fb",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "5bfffc3c9ace4b3d",
+      "group": "5bfffc3c9ace",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "7d4ded6b1f2f9ae7",
+      "group": "7d4ded6b1f2f",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "09596cef2c1856c1",
+      "group": "09596cef2c18",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "a245fc7bf72c5ede",
+      "group": "cf831b449c94",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "683bcf5da20550a1",
+      "group": "683bcf5da205",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "d041fe43931ff303",
+      "group": "88d9c9890403",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "71d9e33f715444ed",
+      "group": "71d9e33f7154",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "55a10f9124efb30a",
+      "group": "55a10f9124ef",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "26fae4c98c2a255a",
+      "group": "26fae4c98c2a",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "2e52044ece93c423",
+      "group": "2e52044ece93",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "ef535ff7c05bf425",
+      "group": "884030656dba",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "d45aa385d6a7711a",
+      "group": "d45aa385d6a7",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "102e4c407238531d",
+      "group": "14cfc30e8992",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "331ff0b28a9243e0",
+      "group": "fae2e94e3e4f",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "e5b8ae899aab0aba",
+      "group": "88544c432817",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "1ade8c9231217213",
+      "group": "1ade8c923121",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "bef97aa764346220",
+      "group": "bef97aa76434",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "d22ca5bc5436ae4e",
+      "group": "d22ca5bc5436",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "155ab118a897b6f8",
+      "group": "155ab118a897",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "a0e539867304bc26",
+      "group": "a0e539867304",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "173981af43a29a41",
+      "group": "173981af43a2",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "8865013f92630efd",
+      "group": "884030656dba",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "e95f485c155c70e5",
+      "group": "e95f485c155c",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "30729284ff540a7b",
+      "group": "d328cc9e0b0d",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "64ab5b70726b7fc6",
+      "group": "76eacc3eba4a",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "f80b12eb8e30f7e6",
+      "group": "14cfc30e8992",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "dfbce56114cfd374",
+      "group": "dfbce56114cf",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "0dfff7e636f27259",
+      "group": "0dfff7e636f2",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "34565bfed5190578",
+      "group": "34565bfed519",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "4c0c5c0bc61dd925",
+      "group": "4c0c5c0bc61d",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "7794969c1e4cb311",
+      "group": "7794969c1e4c",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "de7ec33b63634f1c",
+      "group": "4e8258215875",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "a3e277effd38cb27",
+      "group": "2e52044ece93",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "0c453487778784f3",
+      "group": "0c4534877787",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "19db99534a4338be",
+      "group": "df1596ba9881",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "8e9bdc86b0062f0e",
+      "group": "a2c55aa1fab7",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "e067aacd1984fbe1",
+      "group": "9d1df5186475",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "eb60c8b9f149882a",
+      "group": "eb60c8b9f149",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "7ab0eea766edf334",
+      "group": "683bcf5da205",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "b29539221e7ea3a9",
+      "group": "0fa34ef7c409",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "b4bdbba2fdae0771",
+      "group": "683bcf5da205",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "fd65eb20335b4aff",
+      "group": "fd65eb20335b",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "bbe34bb1439750b2",
+      "group": "bbe34bb14397",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "c7615a1533f888eb",
+      "group": "c7615a1533f8",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "0698b892fc80b9aa",
+      "group": "a1649b27aa89",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "d2bf614a2dde025c",
+      "group": "d2bf614a2dde",
+      "source": "nhtsa_public_sample.csv",
+      "split": "test"
+    },
+    {
+      "id": "296f92e0af5b289c",
+      "group": "5c4119af0275",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "62323a7a5288f929",
+      "group": "73481af420a9",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "3f259b80e3b12a85",
+      "group": "3242cf182b41",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "1e5395646a9ae9a2",
+      "group": "1e5395646a9a",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "1b3459157e28ec25",
+      "group": "672c7f3cfb2a",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "56face85cd0a0326",
+      "group": "dfbce56114cf",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "ae25312a5c5e9069",
+      "group": "a1649b27aa89",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "32a6e2ec110857fc",
+      "group": "45695a62c7c4",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "20f01fb4182f77ce",
+      "group": "20f01fb4182f",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "dad00dfad77500be",
+      "group": "236c014eccc1",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "0486d7b1188e7529",
+      "group": "0486d7b1188e",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "4499fc48003479df",
+      "group": "4e8258215875",
+      "source": "reviews_raw.csv",
+      "split": "test"
+    },
+    {
+      "id": "2802d07ad5fafa66",
+      "group": "2802d07ad5fa",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "c7463bdf81544b3a",
+      "group": "c7463bdf8154",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "1b1178f3353ce2f9",
+      "group": "1b1178f3353c",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "b9b31466e212a1f2",
+      "group": "b9b31466e212",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "3cde14a38b9922c8",
+      "group": "2e52044ece93",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    },
+    {
+      "id": "73f4fab06cdc923d",
+      "group": "73f4fab06cdc",
+      "source": "nhtsa_public_sample.csv",
+      "split": "development"
+    },
+    {
+      "id": "5c4119af02754311",
+      "group": "5c4119af0275",
+      "source": "reviews_raw.csv",
+      "split": "development"
+    }
+  ]
+}

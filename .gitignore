@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.cache/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+!frontend/.env.example
+
+# Generated at runtime
+data/*.db
+data/*.db-*
+data/*.writer.lock
+experiments/results/
+regression.xml

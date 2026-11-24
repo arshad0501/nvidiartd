@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "status": "predefined before improved algorithm experiments",
+  "question": "Does complaint-aware routing preserve more generator-intended complaints than negative-sentiment-only gating, and how do lexical preprocessing and representation affect category grouping?",
+  "data": "Supplied synthetic CSV, generator intent reconstructed by exact base-template matching; not independent ground truth",
+  "baseline": "Original commit 69c5c94, VADER binary gate and 500-feature TF-IDF/KMeans",
+  "comparisons": ["original negative gate", "VADER negative gate with neutral preserved", "complaint cues plus negative gate", "TF-IDF with discourse lead-ins removed", "TF-IDF plus truncated SVD"],
+  "cluster_counts": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "seeds": [42, 7, 99],
+  "metrics": ["candidate precision/recall/F1 against generator intent", "category ARI", "same-space cosine silhouette", "pairwise seed stability", "fit time", "peak allocation"],
+  "selection": "Default k=7 remains a demo parameter, not an empirically optimal category count. Report every comparison; no held-out generalization claim from the supplied templates.",
+  "independent_study": "Separate blinded annotator labels required before reporting independent accuracy or advice utility. Provide protocol and blank annotation files; do not fill human ratings automatically.",
+  "failure_cases": ["zero/one negative", "empty vocabulary", "invalid schema/rating/K", "custom then default input", "LLM timeout/null/invalid severity/wrong IDs", "concurrent analysis", "failure before publication", "failure during publication"],
+  "claims_disallowed": ["95+ guaranteed marks", "expert validated without reviewers", "real-world accuracy from synthetic intent", "faster manual triage without participants", "live NVIDIA success from configuration alone"]
+}

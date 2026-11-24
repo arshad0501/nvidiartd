@@ -1,0 +1,34 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    environment:
+      DRIVESENSE_ACCESS_MODE: shared
+      DRIVESENSE_API_TOKEN: ${DRIVESENSE_API_TOKEN:?Set a random token in .env}
+      NVIDIA_API_KEY: ${NVIDIA_API_KEY:-}
+      DRIVESENSE_ALLOW_EXTERNAL: ${DRIVESENSE_ALLOW_EXTERNAL:-0}
+      DRIVESENSE_DATA_DIR: /app/datasets
+      DRIVESENSE_DB_PATH: /app/state/drivesense_v2.db
+    volumes:
+      - ./data:/app/datasets:ro
+      - analysis_state:/app/state
+    expose:
+      - "8000"
+    restart: unless-stopped
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dashboard
+    ports:
+      - "127.0.0.1:5173:8080"
+    environment:
+      DRIVESENSE_API_TOKEN: ${DRIVESENSE_API_TOKEN:?Set a random token in .env}
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  analysis_state:

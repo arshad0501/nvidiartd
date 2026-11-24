@@ -1,0 +1,5 @@
+.theme-grid .panel:first-child button:not(.theme){display:flex;justify-content:space-between;width:100%;gap:12px;border:0;border-bottom:1px solid #edf0eb;background:transparent;color:var(--ink);padding:14px 8px;text-align:left;font-size:12px;cursor:pointer}.theme-grid .panel:first-child button:not(.theme) b{font:11px 'DM Mono'}
+.llm p:not(.eyebrow){display:block}
+.llm .eyebrow{display:block}
+.analysis-controls{display:flex;align-items:center;gap:14px;background:#fff;border:1px solid var(--line);border-radius:9px;padding:7px 8px 7px 13px}.analysis-controls label{display:flex;align-items:center;gap:8px;color:#54645d;font:10px 'DM Mono';white-space:nowrap}.analysis-controls input{width:96px;accent-color:#236b56}.analysis-controls b{font-size:13px;color:var(--forest)}
+@media(max-width:560px){.analysis-controls{margin-top:12px;width:fit-content}}
